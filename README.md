@@ -29,7 +29,7 @@ You only need a web browser to view the HTML file. No special server or software
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/khdxsohee/Protech-Mechanics-Reapir-Solutions.git](https://github.com/khdxsohee/Protech-Mechanics-Reapir-Solutions.git)
+    git clone [https://github.com/farhan-swe/Protech-Mechanics-Reapir-Solutions.git](https://github.com/farhan-swe/Protech-Mechanics-Reapir-Solutions.git)
     ```
 2.  **Navigate to the project directory:**
     ```sh
@@ -44,5 +44,5 @@ This project is open-source and available under the MIT License.
 
 ## 📞 Contact
 
-- **Your Name:** khdxsohee
-- **Project Link:** [https://github.com/khdxsohee/Protech-Mechanics-Reapir-Solutions](https://github.com/khdxsohee/Protech-Mechanics-Reapir-Solutions)
+- **Your Name:** farhan-swe
+- **Project Link:** [https://github.com/farhan-swe/Protech-Mechanics-Reapir-Solutions](https://github.com/farhan-swe/Protech-Mechanics-Reapir-Solutions)
